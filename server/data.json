@@ -1,0 +1,68 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 45,
+      "gender": "Male",
+      "condition": "Flu",
+      "admitted": "2023-10-20"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 32,
+      "gender": "Female",
+      "condition": "Fracture",
+      "admitted": "2023-10-22"
+    },
+    {
+      "name": "James",
+      "age": "22",
+      "gender": "Male",
+      "condition": "Normal",
+      "admitted": "2026-01-13",
+      "id": 1768372989476
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Gregory House",
+      "specialization": "Diagnostician",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Dr. Meredith Grey",
+      "specialization": "General Surgery",
+      "available": false
+    }
+  ],
+  "appointments": [
+    {
+      "patientName": "James",
+      "doctorName": "Dr. Meredith Grey",
+      "date": "2026-01-14",
+      "time": "13:30",
+      "id": 1768373019302,
+      "status": "Scheduled"
+    }
+  ],
+  "users": [
+    {
+      "id": 1768374261548,
+      "name": "James",
+      "email": "jameschrish623@gmail.com",
+      "password": "Jameschrish@09",
+      "role": "Patient"
+    },
+    {
+      "id": 1768375571413,
+      "name": "Chrish",
+      "email": "jameschrish@gmail.com",
+      "password": "Jameschrish@09",
+      "role": "Nurse"
+    }
+  ]
+}

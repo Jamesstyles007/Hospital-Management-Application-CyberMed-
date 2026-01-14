@@ -2,8 +2,6 @@
 
 **CyberMed** is a futuristic, full-stack Hospital Management System designed to streamline hospital operations with a modern interface and robust role-based access control.
 
-![CyberMed](https://images.unsplash.com/photo-1538108149393-fbbd8189718c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80)
-_(Note: Placeholder image for visualization)_
 
 ## 🚀 Features
 

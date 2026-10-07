@@ -8,7 +8,8 @@ export default defineConfig({
     tailwindcss(),
   ],
 
-  base:'/Hospital-Management-Application-CyberMed/',
+  base:'/',
+  
   server: {
     proxy: {
       '/api': 'http://localhost:5000'
